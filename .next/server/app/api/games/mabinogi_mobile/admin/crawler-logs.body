@@ -1,1 +1,0 @@
-{"success":true,"message":"크롤러 로그를 성공적으로 가져왔습니다.","logs":[{"timestamp":"2025-05-10T01:23:57.248Z","level":"INFO","message":"크롤러 스케줄러 시작됨","schedule":"1 * * * *","baseUrl":"http://localhost:3000","timeout":30000,"maxRetries":3,"nextRun":"Unable to calculate next run time"}]}
