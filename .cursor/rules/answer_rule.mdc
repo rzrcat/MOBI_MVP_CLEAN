@@ -1,7 +1,7 @@
 ---
 description: 
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 # 빠르고 정확한 답변을 위한 프롬프트 추천 가이드
 
@@ -32,7 +32,9 @@ alwaysApply: false
 ## 6. 실제 적용 예시
 - "guide.md의 온보딩 안내에 '개발 단계별 품질 점검 및 일관성 관리 플로우' 섹션을 추가해줘. 예시는 아래와 같이 작성해줘."
 - "task-template.md에 '개발 시작/중간/종료' 단계별 체크리스트를 회고/피드백 아래에 마크다운 리스트로 넣어줘."
-- "memory-bank/05-progress-log.md에 정기 코드 품질 점검 결과와 개선점 기록 예시를 추가해줘."
+- "memory-bank/persistent/: 장기 보존 프로젝트 지식, 아키텍처, 규칙, 주요 결정 등"
+- "memory-bank/session/: 단기 작업 맥락, 임시 기록, 현재 세션에서만 필요한 정보 등"
+- "프로젝트 특화 정보(목적, 회고, 결정, 이슈 등)는 반드시 memory-bank/persistent/에서만 관리"
 
 ---
 
